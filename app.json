@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "ganapati-aarti",
-    "slug": "ganapati-aarti",
+    "slug": "ganpati-aarti-v1",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "5e044d85-87b9-404a-92d3-025f79c633ae"
+      }
+    },
+    "owner": "aths7"
   }
 }
