@@ -1,5 +1,7 @@
 # Ganapati Aarti 🕉️
 
+# Download - [Link](https://drive.google.com/file/d/1KZkqWivaJWqA7YJRw4dchvMGpBkrwuTo/view?usp=sharing)
+
 A beautiful React Native mobile app for displaying Hindu devotional songs (aartis) dedicated to Lord Ganesha. The app features elegant typography for Devanagari script and an intuitive navigation system.
 
 ## Features
@@ -31,24 +33,27 @@ A beautiful React Native mobile app for displaying Hindu devotional songs (aarti
 ### Installation
 
 1. Clone the repository
+
    ```bash
    git clone <repository-url>
    cd ganapati-aarti
    ```
 
 2. Install dependencies
+
    ```bash
    npm install
    ```
 
 3. Start the development server
+
    ```bash
    npx expo start
    ```
 
 4. Run on your preferred platform:
    - **iOS Simulator**: Press `i` in the terminal
-   - **Android Emulator**: Press `a` in the terminal  
+   - **Android Emulator**: Press `a` in the terminal
    - **Physical Device**: Scan QR code with Expo Go app
 
 ## Project Structure
@@ -85,4 +90,4 @@ This project is licensed under the MIT License.
 
 ---
 
-*Built with devotion for the spiritual community* 🙏
+_Built with devotion for the spiritual community_ 🙏
